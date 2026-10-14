@@ -1,0 +1,9 @@
+{
+  "name": "GramPath AI \u2014 From Talent to Livelihood",
+  "short_name": "GramPath AI",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f8f5",
+  "theme_color": "#14532d",
+  "description": "Telugu and English learning-to-livelihood prototype for rural students."
+}
